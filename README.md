@@ -86,11 +86,21 @@ Good luck out there!
 ## Tips and Troubleshooting
 ### Common Issues
 Do not rename the Vault. If you do, the navigation buttons won't work.
-If extensions and formatting did not load: Make sure you opened the Job_Hunt_Vault folder as a Vault. Make sure you trusted the extensions and are not in Restricted mode.
+
+**If extensions and formatting did not load:** 
+
+> Make sure you opened the Job_Hunt_Vault folder as a Vault.
+>
+> Make sure you trusted the extensions and are not in Restricted mode.
 
 ### Customization
-You can edit the Lists in 00 Settings > 10 Lists to suit your needs
-If you want to rename the Vault: After changing the Vault name: Open 00 Settings > 99 Technical > Buttons.md. Find and replace Job_Hunt_Vault with the new Vault name.
+You can edit the Lists in 00 Settings > 10 Lists to suit your needs.
+
+**If you want to rename the Vault:**
+>  After changing the Vault name, Open 00 Settings > 99 Technical > Buttons.md.
+>
+> Find and replace "Job_Hunt_Vault" with the new Vault name.
+
 
 ## Credits and License
 Text Editing script (text.js) originally authored by [Jawabiscuit](https://github.com/Jawabiscuit/obsidian-modules/tree/main)
