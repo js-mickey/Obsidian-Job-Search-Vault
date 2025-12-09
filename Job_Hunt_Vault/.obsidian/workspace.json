@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Records/10 Positions/sample job 2 sample company 2.md",
+                "file": "40 Views/Dashboard.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sample job 2 sample company 2"
+              "title": "Dashboard"
             }
           }
         ]
@@ -211,43 +211,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "eeffcc9f3d191a7a",
+  "active": "427886e2a2d71fd1",
   "lastOpenFiles": [
-    "30 Records/10 Positions/sample job 2 sample company 2.md",
-    "40 Views/Dashboard.md",
-    "40 Views/Menubar.md",
-    "00 Settings/99 Technical/Buttons/Buttons.md",
-    "current status.md",
-    "git-cheat-sheet-education.pdf",
-    "99 User Guide/get_started.md",
-    "40 Views/Position_Base.base",
-    "readme.md",
-    "40 Views/Communication_Base.base",
-    "40 Views/Company_Base.base",
-    "40 Views/Contacts_Base.base",
-    "40 Views/Journal_Base.base",
-    "30 Records/20 People/Sample Person 1.md",
-    "30 Records/10 Positions/sample job 1 sample company 1.md",
-    "30 Records/40 Logs/2025-12-09 Message_Other Exchanged Sample Person 2.md",
-    "30 Records/40 Logs/2025-12-08 Phone_Call Received Sample Person 1.md",
-    "30 Records/30 Companies/Sample Company 3.md",
-    "30 Records/30 Companies/Sample Company 2.md",
-    "30 Records/30 Companies/Sample Company 1.md",
-    "30 Records/20 People/Sample Person 3.md",
-    "30 Records/20 People/Sample Person 2.md",
-    "10 Journal/Sample Note 4.md",
-    "10 Journal/Sample Note 3.md",
-    "10 Journal/Sample Note 2.md",
-    "10 Journal/Sample Note 1.md",
-    "00 Settings/20 Templates/Forms/Template-Position.md",
-    "00 Settings/20 Templates/Forms/Template-Company.md",
-    "00 Settings/20 Templates/Forms/Template-CommLog.md",
-    "10 Journal/a fifth note.md",
-    "30 Records/10 Positions/sample job 5 sample company 3.md",
-    "30 Records/10 Positions/sample job 4 sample company 2.md",
-    "30 Records/10 Positions/to-contain A new ",
-    "30 Records/10 Positions/Company Name Here A ",
-    "00 Settings/99 Technical/Buttons",
-    "40 Views"
   ]
 }
