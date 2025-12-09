@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "App-Stage": "text",
+    "Applied": "checkbox",
+    "Applied-Date": "date"
+  }
+}

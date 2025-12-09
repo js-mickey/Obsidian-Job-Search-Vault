@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "userIgnoreFilters": [
+    "00 Settings/"
+  ]
+}
