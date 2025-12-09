@@ -12,7 +12,7 @@ This vault provides a robust, easy-to-use KM system to manage your job search. T
 Navigation is provided by a sidebar.
 
 ## Requirements
-* ([Obsidian](https://obsidian.md/)) (Free)
+* [Obsidian](https://obsidian.md/) (Free)
 
 ## Installation
 1. Install Obsidian (if not already installed).
@@ -26,5 +26,5 @@ Navigation is provided by a sidebar.
    * Templater
   
 ## Credits and License
-Text Editing script (text.js) originally authored by ([Jawabiscuit](https://github.com/Jawabiscuit/obsidian-modules/tree/main))
+Text Editing script (text.js) originally authored by [Jawabiscuit](https://github.com/Jawabiscuit/obsidian-modules/tree/main)
 
