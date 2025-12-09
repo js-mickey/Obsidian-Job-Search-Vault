@@ -1,0 +1,11 @@
+Reviewing
+Do_Not_Apply
+Pursue
+Applied
+Recruiter_Screen
+Recruiter_Conversation
+Interview
+Under_Review
+Offered
+Accepted
+No-Go

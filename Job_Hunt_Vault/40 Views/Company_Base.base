@@ -1,0 +1,15 @@
+properties:
+  file.name:
+    displayName: Company
+views:
+  - type: table
+    name: Companies
+    filters:
+      and:
+        - file.tags.contains("company")
+    order:
+      - file.name
+      - Positions
+    sort:
+      - property: Positions
+        direction: ASC

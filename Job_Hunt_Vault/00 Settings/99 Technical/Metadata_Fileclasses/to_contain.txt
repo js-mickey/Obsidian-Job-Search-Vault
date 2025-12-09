@@ -1,0 +1,4 @@
+- [ ] JobHunt Master #fileclass
+- [x] Company Contact #fileclass
+- [x] Person Contact #fileclass
+- [x] Position #fileclass

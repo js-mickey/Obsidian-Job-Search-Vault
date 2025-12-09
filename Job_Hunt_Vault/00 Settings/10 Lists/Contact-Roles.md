@@ -1,0 +1,6 @@
+Recruiter
+Hiring_Manager
+Leader
+Employee
+Personal_Connection
+Other

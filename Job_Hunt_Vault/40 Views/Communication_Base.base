@@ -1,0 +1,36 @@
+filters:
+  and:
+    - '!file.inFolder("00 Settings")'
+properties:
+  file.name:
+    displayName: Communication
+  note.Comm_DateTime:
+    displayName: Time
+views:
+  - type: list
+    name: Communication History (5)
+    filters:
+      and:
+        - file.tags.contains("log-communication")
+    order:
+      - file.name
+      - Topic
+    sort:
+      - property: Comm_DateTime
+        direction: DESC
+    limit: 5
+    markers: bullet
+    indentProperties: false
+  - type: table
+    name: Whole History
+    filters:
+      and:
+        - file.tags.contains("log-communication")
+    order:
+      - file.name
+      - Comm_DateTime
+    sort:
+      - property: Comm_DateTime
+        direction: ASC
+      - property: file.ctime
+        direction: DESC

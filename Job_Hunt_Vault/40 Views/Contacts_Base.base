@@ -1,0 +1,34 @@
+properties:
+  file.name:
+    displayName: Name
+views:
+  - type: table
+    name: Simple
+    filters:
+      and:
+        - file.tags.contains("person")
+    order:
+      - file.name
+      - Company
+      - Related-Positions
+    sort:
+      - property: Relationship
+        direction: ASC
+    columnSize:
+      file.name: 180
+      note.Company: 181
+      note.Related-Positions: 155
+  - type: table
+    name: Complete
+    filters:
+      and:
+        - file.tags.contains("person")
+    order:
+      - file.name
+      - Phone
+      - Related-Positions
+      - Relationship
+      - Role
+      - Company
+      - Email
+      - file.backlinks

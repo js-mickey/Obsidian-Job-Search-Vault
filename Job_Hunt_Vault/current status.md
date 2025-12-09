@@ -1,0 +1,26 @@
+- [x] Lists
+- Templates
+	- Forms
+		 - [x] Appear entered, need to verify functionality
+		 - [x] Comm form does not capture all relevant information gotten from the template
+- Technical
+	- Metadata Fileclasses
+		- Appear entered and complete, need to verify
+	- Templater Scripts
+		- Appear entered and complete, need to verify
+- Records
+	- File structure is complete
+- Documentation
+	- User Guide
+		- Need to author user guidance
+	- Extension List
+		- Need to create
+			- Currently
+				- Dataview (Dependency for Metadata Menu)
+				- Metadata Menu
+				- Templater
+				- Buttons
+	- Sample Content
+- Management
+	- [x] Base Views for Records
+	- [x] Dashboard / UI Solution

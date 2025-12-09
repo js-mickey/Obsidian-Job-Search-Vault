@@ -1,0 +1,3 @@
+- [ ] Date Select Script (cleaned up) #scripts #log
+- [ ] Linesplit Script (add trimming?) #scripts
+- [x] note_to_options #scripts

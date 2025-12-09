@@ -1,0 +1,16 @@
+filters:
+  and:
+    - file.tags.contains("note")
+    - '!file.inFolder("00 Settings")'
+views:
+  - type: list
+    name: All Journal Entries
+    sort:
+      - property: file.ctime
+        direction: DESC
+  - type: list
+    name: Recent Journal Entries
+    sort:
+      - property: file.mtime
+        direction: DESC
+    limit: 5

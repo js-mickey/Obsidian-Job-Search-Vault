@@ -1,0 +1,63 @@
+filters:
+  and:
+    - '!file.inFolder("00 Settings")'
+    - file.tags.contains("Position")
+properties:
+  file.name:
+    displayName: Position
+  note.App-Stage:
+    displayName: Stage
+views:
+  - type: table
+    name: All Positions
+    order:
+      - file.name
+      - App-Stage
+      - Contacts
+      - Company
+      - Applied
+      - file.ctime
+    sort:
+      - property: file.ctime
+        direction: DESC
+    markers: number
+    columnSize:
+      note.App-Stage: 125
+  - type: table
+    name: Positions to Review
+    filters:
+      and:
+        - file.tags.contains("position")
+        - Applied != true
+        - '!note["App-Stage"].containsAny("No-Go", "Do_Not_Apply")'
+    order:
+      - file.name
+      - App-Stage
+      - Applied
+    sort:
+      - property: Applied
+        direction: DESC
+    columnSize:
+      note.App-Stage: 319
+  - type: list
+    name: Positions to Review (list)
+    filters:
+      and:
+        - file.tags.contains("position")
+        - Applied != true
+        - '!note["App-Stage"].containsAny("No-Go", "Do_Not_Apply")'
+    order:
+      - file.name
+      - App-Stage
+  - type: table
+    name: Applied Positions
+    filters:
+      and:
+        - Applied == true
+    order:
+      - file.name
+      - Applied
+      - Applied-Date
+    sort:
+      - property: Applied-Date
+        direction: ASC
