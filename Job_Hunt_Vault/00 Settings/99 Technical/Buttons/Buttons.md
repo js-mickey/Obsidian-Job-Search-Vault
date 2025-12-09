@@ -109,7 +109,7 @@ customTextColor #000000
 ```button
 name 🎯 Positions
 type link
-action obsidian://open?vault=Job_Hunt_Vaultfile=Position_Base.base
+action obsidian://open?vault=Job_Hunt_Vault&file=Position_Base.base
 customColor #f2f2f2
 customTextColor #000000
 width 8
