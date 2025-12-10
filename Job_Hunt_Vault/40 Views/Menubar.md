@@ -1,3 +1,7 @@
+---
+cssclasses: menubar
+---
+
 # Menu
 `button-n-dashboard`
 
@@ -13,3 +17,5 @@
 `button-companies`
 `button-contacts`
 `button-journals`
+#### Recent Pages
+`$=dv.list(dv.pages("").sort(f=>f.file.mtime.ts,"desc").limit(5).file.link)`

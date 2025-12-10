@@ -1,7 +1,6 @@
-# Job Hunt Dashboard
+# Dashboard
 
-> [!INFO] See All 
-> **[[Position_Base.base#All Positions|Positions]]  |  [[Contacts_Base.base#Complete|Contacts]]  |   [[Communication_Base.base#Whole History|Comms]]  |  [[Company_Base.base#Companies|Companies]] | [[Journal_Base.base#All Journal Entries|Journal Entries]] **
+ **[[Position_Base.base#All Positions|Positions]]  |  [[Contacts_Base.base#Complete|Contacts]]  |   [[Communication_Base.base#Whole History|Comms]]  |  [[Company_Base.base#Companies|Companies]] | [[Journal_Base.base#All Journal Entries|Journal Entries]] **
 ## 🎯 Positions to Review
 ![[Position_Base.base#Positions to Review]]
 ## 💬 Recent Communications
