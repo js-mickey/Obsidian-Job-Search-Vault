@@ -1,1 +1,5 @@
-{}
+{
+  "enabledCssSnippets": [
+    "job_hunt_vault"
+  ]
+}

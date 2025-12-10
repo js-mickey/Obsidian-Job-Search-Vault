@@ -6,7 +6,7 @@
       {
         "id": "23c8ac3a287babe6",
         "type": "tabs",
-        "dimension": 79.3943383805135,
+        "dimension": 72.81213535589265,
         "children": [
           {
             "id": "427886e2a2d71fd1",
@@ -27,7 +27,7 @@
       {
         "id": "bc6465c3d77c6ce5",
         "type": "tabs",
-        "dimension": 20.605661619486504,
+        "dimension": 27.18786464410735,
         "children": [
           {
             "id": "4447fd10feb039eb",
@@ -38,7 +38,7 @@
               "state": {
                 "file": "40 Views/Menubar.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "pinned": true,
               "icon": "lucide-file",
@@ -102,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 238.5
   },
   "right": {
     "id": "4d80ec472665a43b",
@@ -207,11 +207,38 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "427886e2a2d71fd1",
   "lastOpenFiles": [
+    "40 Views/Menubar.md",
+    "30 Records/10 Positions/sample job 5 sample company 3.md",
+    "30 Records/10 Positions/sample job 4 sample company 2.md",
+    "30 Records/10 Positions/sample job 3 sample company 1.md",
+    "40 Views/Dashboard.md",
+    "10 Journal/Sample Note 1.md",
+    "10 Journal/Sample Note 4.md",
+    "10 Journal/Sample Note 3.md",
+    "10 Journal/Sample Note 2.md",
+    "30 Records/40 Logs/2025-12-09 Message_Other Exchanged Sample Person 2.md",
+    "30 Records/40 Logs/2025-12-08 Phone_Call Received Sample Person 1.md",
+    "00 Settings/10 Lists/Stages.md",
+    "00 Settings/10 Lists/Sources.md",
+    "00 Settings/10 Lists/Contact-Methods.md",
+    "00 Settings/10 Lists/Contact-Roles.md",
+    "00 Settings/10 Lists/Log-Communication-Type.md",
+    "00 Settings/10 Lists/Locations.md",
+    "00 Settings/10 Lists/Contact-Strength.md",
+    "00 Settings/10 Lists/Industries.md",
+    "00 Settings/99 Technical/Buttons/Buttons.md",
+    "00 Settings/20 Templates/buttoncontent.md",
+    "00 Settings/20 Templates/Forms/Template-Note.md",
+    "00 Settings/99 Technical/Tour/Tour Buttons.md",
+    "00 Settings/99 Technical/Tour/Tutorial_Pages.md",
+    "00 Settings/99 Technical/Tour/Tutorial_Welcome.md",
+    "00 Settings/99 Technical/Tour/Tutorial_Done.md",
+    "00 Settings/99 Technical/Tour"
   ]
 }

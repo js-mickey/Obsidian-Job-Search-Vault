@@ -1,0 +1,30 @@
+.menubar li {
+	padding-left: 0px;
+	margin-left: 5px;
+	color: red;
+}
+
+.menubar .list-view-ul {
+	font-size: var(--font-ui-small);
+	color: red;
+	margin-left: 5px;
+	margin-top: 0px !important;
+
+}
+
+.menubar :is(h2, h3, h4, h5, h6) {
+	margin-top: 16px !important;
+	margin-bottom: 5px !important;
+}
+
+.menubar li {margin-left: 5px !important;}
+
+.menubar p { 
+	margin-top: 5px !important;
+	margin-bottom: 1px;
+	margin-block-start: .50em !important;}
+
+
+.menubar .mod-header {
+	display: none;
+}
